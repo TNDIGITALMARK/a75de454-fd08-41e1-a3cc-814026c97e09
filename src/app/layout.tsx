@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "Lasy AI - Unlocking the Future of Intelligence",
+  description: "Revolutionary AI workflows with driven insights and automation. Experience the power of artificial intelligence with Lasy AI.",
 };
 
 export default function RootLayout({
